@@ -8,28 +8,28 @@ The challenge is to analyze these variables, identify their influence on car pri
 The primary objective of this project is to build a regression-based predictive model to estimate car prices using relevant features.
 Specific objectives include:
 
-Performing exploratory data analysis (EDA) to understand the distribution of car prices and feature relationships.
-Identifying variables that have a direct and indirect impact on car pricing.
-Preprocessing and transforming data to make it suitable for modeling.
-Building and evaluating multiple regression models.
-Selecting the best-performing model based on evaluation metrics.
-Using the finalized model to predict car prices.
+-Performing exploratory data analysis (EDA) to understand the distribution of car prices and feature relationships.
+-Identifying variables that have a direct and indirect impact on car pricing.
+-Preprocessing and transforming data to make it suitable for modeling.
+-Building and evaluating multiple regression models.
+-Selecting the best-performing model based on evaluation metrics.
+-Using the finalized model to predict car prices.
 # Approach
-Data understanding and cleaning
-Exploratory Data Analysis (EDA)
-Feature selection and transformation
-Model building using suitable regression techniques
-Model evaluation and comparison
-Final price prediction using the selected model
+-Data understanding and cleaning
+-Exploratory Data Analysis (EDA)
+-Feature selection and transformation
+-Model building using suitable regression techniques
+-Model evaluation and comparison
+-Final price prediction using the selected model
 # Tools & Technologies
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
-Jupyter Notebook
+-Python
+-Pandas, NumPy
+-Matplotlib, Seaborn
+-Scikit-learn
+-Jupyter Notebook
 # Outcome
-Developed a regression model capable of predicting car prices with good accuracy
-Identified key features influencing car prices across different categories
-Demonstrated an end-to-end data analytics workflow from raw data to predictive insights
+-Developed a regression model capable of predicting car prices with good accuracy
+-Identified key features influencing car prices across different categories
+-Demonstrated an end-to-end data analytics workflow from raw data to predictive insights
 # Key Learning
 This project demonstrates practical experience in data analysis, feature understanding, regression modeling, and model evaluation, with a strong focus on translating data-driven results into meaningful business insights.
