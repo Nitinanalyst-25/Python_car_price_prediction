@@ -1,56 +1,54 @@
 # Project Overview
-The automobile industry consists of cars belonging to different categories, each priced based on a combination of technical, performance, and design-related attributes. Car pricing is not influenced by a single factor; instead, it depends on multiple variables that may have direct or indirect effects on the final price.
+The automobile industry consists of cars belonging to different categories, each priced based on a combination of technical, performance, and design-related attributes. Car pricing is influenced by multiple factors, and these factors may affect prices either directly or indirectly.
 
-This project focuses on understanding these relationships and building a predictive model that can accurately estimate the price of a car based on its characteristics.
+This project focuses on **exploring car price data**, understanding the relationships between different vehicle attributes and price, and applying basic regression techniques to learn how pricing patterns can be modeled using Python.
 
 ---
 
 # Problem Statement
-Car prices vary significantly across different categories and models due to the influence of multiple numerical and categorical variables such as engine specifications, fuel efficiency, dimensions, and performance features. However, not all variables contribute equally to price determination, and some factors impact pricing indirectly.
+Car prices vary across different categories and models due to the influence of several numerical and categorical variables such as engine specifications, fuel efficiency, dimensions, and performance features. However, the contribution of each variable to the overall price is not always straightforward.
 
-The challenge is to analyze these variables, identify their influence on car pricing, and develop a predictive model capable of estimating car prices accurately for different car categories.
+The objective is to analyze these variables, study their relationship with car prices, and apply regression techniques to understand how car prices can be modeled using historical data.
 
 ---
 
 # Project Objectives
-The primary objective of this project is to build a regression-based predictive model to estimate car prices using relevant features.
+The primary objective of this project is to perform exploratory data analysis and apply basic regression models to understand car price behavior.
 
 Specific objectives include:
-- Performing exploratory data analysis (EDA) to understand the distribution of car prices and feature relationships
-- Identifying variables that have a direct and indirect impact on car pricing
-- Preprocessing and transforming data to make it suitable for modeling
-- Building and evaluating multiple regression models
-- Selecting the best-performing model based on evaluation metrics
-- Using the finalized model to predict car prices
+- Performing exploratory data analysis (EDA) to examine price distribution and feature relationships  
+- Identifying variables that influence car prices directly or indirectly  
+- Cleaning, preprocessing, and transforming data for analysis  
+- Applying linear and polynomial regression to model car prices  
+- Understanding how different regression techniques capture price trends in the data  
 
 ---
 
 # Approach
-- Data understanding and cleaning
-- Exploratory Data Analysis (EDA)
-- Feature selection and transformation
-- Model building using suitable regression techniques
-- Model evaluation and comparison
-- Final price prediction using the selected model
+- Data understanding and cleaning  
+- Exploratory Data Analysis (EDA)  
+- Feature selection and transformation  
+- Application of linear regression  
+- Application of polynomial regression  
+- Comparison of regression outputs for learning purposes  
 
 ---
 
 # Tools & Technologies
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
-- Jupyter Notebook
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- Jupyter Notebook  
 
 ---
 
 # Outcome
-- Developed a regression model capable of predicting car prices with good accuracy
-- Identified key features influencing car prices across different categories
-- Demonstrated an end-to-end data analytics workflow from raw data to predictive insights
+- Gained hands-on experience in data wrangling and exploratory analysis using Python  
+- Applied linear and polynomial regression to model car prices using available data  
+- Developed an understanding of how regression models learn relationships from historical datasets  
 
 ---
 
 # Key Learning
-This project demonstrates practical experience in data analysis, feature understanding, regression modeling, and model evaluation, with a strong focus on translating data-driven results into meaningful business insights.
-
+This project helped build a strong foundation in Python-based data analysis, exploratory data analysis, and basic regression modeling. The focus was on learning how data preprocessing, visualization, and simple models work together to analyze real-world datasets.
